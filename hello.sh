@@ -10,6 +10,8 @@ echo "I am an IT Student"
 
 echo "My primary technical strength is java"
 
+echo "I am working on devops"
+
 mkdir -p rancho
 
 echo "I am a java backend developer"
