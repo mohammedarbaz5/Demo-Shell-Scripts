@@ -1,10 +1,16 @@
 #!/bin/bash
 
+<<info 
+this is just a basic shell script
+info
+
 echo "Assalamu alaikum"
 echo "I am Mohammed Abdul Arbaz"
 echo "I am an IT Student"
 
 echo "My primary technical strength is java"
+
+echo "I am working on devops"
 
 mkdir -p rancho
 
